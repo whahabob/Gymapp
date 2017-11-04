@@ -8,9 +8,7 @@ import android.view.View;
 import android.view.ViewGroup;
 import android.widget.TextView;
 
-/**
- * Created by marmm on 9/18/17.
- */
+
 
 public class ReminderAdapter extends RecyclerView.Adapter<ReminderAdapter.Viewholder> {
 
